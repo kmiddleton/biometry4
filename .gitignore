@@ -1,0 +1,10 @@
+.DS_Store
+*.pdf
+.Rproj.user
+*.Rproj
+*.Rcheck
+*.tar.gz
+*~
+*.swp
+*.swo
+builds
